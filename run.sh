@@ -1,0 +1,1 @@
+SBT_OPTS="-Xmx4g -XX:+UseConcMarkSweepGC"  sbt "run-main com.xbarr.movies.MovieNameExtractor"
