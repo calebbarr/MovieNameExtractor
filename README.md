@@ -4,7 +4,7 @@ The purpose of this assignment is to exercise your skills in building systems wh
 
 ## Instructions (OSX):
 * Clone this repo:
-	* 	`git clone https://github.com/calebbarr/movies.git`
+	* 	`git clone https://github.com/calebbarr/MovieNameExtractor.git`
 * Move ASR utterances into data directory:
 	* 	`cd MovieNameExtractor && mv path/to/utterances.txt data/`
 * Using [homebrew](http://brew.sh/), install [sbt](http://www.scala-sbt.org/):
